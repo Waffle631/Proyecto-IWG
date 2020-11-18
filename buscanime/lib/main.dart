@@ -61,3 +61,7 @@ Future<int> id(String str) async {
   var a = await buscar(str);
   return a.first.malId;
 }
+
+//eal//
+
+//buaaaaaaa//
